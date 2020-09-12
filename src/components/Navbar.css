@@ -5,6 +5,7 @@
     justify-content: center;
     text-align: right;
     font-family: 'Grandstander', cursive;
+    width: 100%;
 }
 
 .navbar-logo {
@@ -27,7 +28,7 @@ display: none;
 
 .nav-item {
     display: inline-block;
-    padding: 1rem;
+    padding: 1vw;
     font-size: 1.5vw;
     padding-top: 2rem;
 }

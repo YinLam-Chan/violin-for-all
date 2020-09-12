@@ -3,7 +3,7 @@ import '../../App.css';
 
 export default function Tutorials() {
     return (
-        <div>
+        <div className='home'>
             <h1 className='tutorials'>Tutorials</h1>
         </div>
     )
