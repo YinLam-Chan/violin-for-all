@@ -1,0 +1,30 @@
+.home {
+    box-sizing: border-box;
+    background: #f5aa84;
+    height: 100%;
+}
+
+.sheetMusic {
+    margin-left: 3vw;
+    padding-top: 1rem;
+    font-size: 4vw;
+    margin-bottom: 10px;
+}
+
+.musicTable {
+    width: 40vw;
+    border: solid #e1e3e6;
+    font-size: 4vw;
+}
+
+thead {
+    font-size: 3.5vw;
+    line-height: 3rem;
+
+}
+
+tbody {
+    padding-left: 5rem;
+    line-height: 2rem;
+    font-size: 3vw;
+}
