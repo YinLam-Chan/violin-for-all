@@ -1,0 +1,39 @@
+.home {
+    box-sizing: border-box;
+    background: #f5aa84;
+    height: 100%;
+}
+
+.login {
+    padding-top: 4rem;
+    padding-left: 5rem;
+    padding-bottom: 3rem;
+}
+
+.label {
+    padding-left: 11rem;
+    font-size: 2.5vw;
+}
+
+input {
+    height: 3vw;
+    width: 30vw;
+    margin-left: 1rem;
+    font-size: x-large;
+    margin-bottom: 50px;
+}
+
+.create-new {
+    margin-left: 7em;
+    height: 3rem;
+    width: 10rem;
+    margin-bottom: 15rem;
+    font-size: 1rem;
+}
+
+.submit {
+    margin-left: 40em;
+    height: 3rem;
+    width: 6rem;
+    font-size: 1rem;
+}

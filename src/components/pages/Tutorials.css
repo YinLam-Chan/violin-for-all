@@ -1,0 +1,25 @@
+.home {
+    box-sizing: border-box;
+    background: #f5aa84;
+    height: 100%;
+}
+
+.tutorials {
+    margin-left: 3vw;
+    padding-top: 1rem;
+    font-size: 4vw;
+    margin-bottom: 10px;
+}
+
+.level {
+    font-size: 3vw;
+    margin-left: 6vw;
+}
+
+.levelImage {
+    width: 50%;
+    height: 20%;
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 1.5rem;;
+}
