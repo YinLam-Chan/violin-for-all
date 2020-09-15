@@ -18,15 +18,15 @@
 input {
     height: 3vw;
     width: 30vw;
-    margin-left: 1rem;
-    font-size: x-large;
+    margin-left: 2rem;
+    font-size: 1rem;
     margin-bottom: 50px;
 }
 
 .create-new {
     margin-left: 7em;
-    height: 3rem;
-    width: 10rem;
+    height: 4vw;
+    width: 15vw;
     margin-bottom: 15rem;
     font-size: 1rem;
 }
