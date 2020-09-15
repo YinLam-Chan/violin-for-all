@@ -1,0 +1,38 @@
+.page {
+    box-sizing: border-box;
+    background: #f5aa84;
+    height: 100%;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.forum {
+    padding-top: 1rem;
+    font-size: 4vw;
+    margin-bottom: 10px;
+}
+
+.open {
+    margin-left: 67vw;
+    font-size: 2.2vw;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    width: 19vw;
+}
+
+.forumTable {
+    width: 60%;
+    border: solid #e1e3e6;
+    font-size: 1.5vw;
+    padding-bottom: 5rem;
+}
+
+thead {
+    font-size: 2.4vw;
+    line-height: 3.5vw;
+    font-style: normal;
+}
+
+tbody {
+    font-size: 2vw;
+}

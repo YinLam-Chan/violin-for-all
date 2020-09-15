@@ -19,7 +19,7 @@ export default function SheetMusic() {
     }
 
     return (
-        <div className='home'>
+        <div className='page'>
             <h1 className='sheetMusic'>Sheet Music</h1>
 
             <h2 className='level'>Easy</h2>
@@ -82,6 +82,8 @@ export default function SheetMusic() {
                         </tr>
                     </tbody>
                 </ReactBootStrap.Table>
+
+                <button className='upload' type="button">Upload new sheet music</button>
             </div>
         </div>
     );
